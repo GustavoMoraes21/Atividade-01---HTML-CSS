@@ -1,0 +1,36 @@
+.fundo {
+    background-color:lightsalmon;
+    width: 500px;
+    height: 500px; 
+}
+
+.fundo2 {
+    background-color: lightgreen;
+    width: 250px;
+    height: 250px;
+}
+
+p {
+    color:white;
+    background-color: red;
+    font-size: 25px;
+    font-family:monospace;
+    font-weight: bold;
+
+}
+
+.fundo3 {
+    width: 50%;
+    height: 50%;
+    background-color: rgb(blue);
+
+
+}
+
+.fundo4 {
+    width: 75%;
+    height: 25%;
+    background-color: rgb(red);
+    
+
+}
